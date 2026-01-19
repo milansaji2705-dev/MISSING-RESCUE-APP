@@ -12,6 +12,7 @@ android.permissions = INTERNET,ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION
 android.api = 31
 android.minapi = 21
 p4a.branch = master
+
 [buildozer]
 log_level = 2
 warn_on_root = 1
